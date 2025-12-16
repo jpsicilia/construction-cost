@@ -2,6 +2,10 @@
 data/
 *.zip
 *.tif
+sample_submission*.csv
+
+# Virtual environment
+venv/
 
 # Models & outputs
 models/
